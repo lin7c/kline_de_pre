@@ -2,7 +2,7 @@
 ﻿
 #### 介绍
 简直是金融领域的chatgpt,让AI识别K线形态预测未来走势自动交易。。。/It's like a chatgpt in the financial field, allowing AI to recognize K-line patterns and predict future trends for automatic trading...
-﻿
+
 #### 软件架构
 软件架构说明
 ﻿
@@ -20,4 +20,4 @@
 作者：Lin7c:A2958358128@gmail.com
 ﻿
 ### 部分功能展示
-lainteches.com
+kline-de-pre.laintas.com
